@@ -24,7 +24,7 @@ run;
 ```
 
 Basic knowledge of undergraduate-level mathematics is necessary. However, no advanced mathematical degree is required to decipher how the financial industry uses time series modeling to solve problems. Functional knowledge of SAS is desirable but isn't mandatory.
-SAS University Edition is free software that is used throughout the book. Download details can be found at https:/​/​www.​sas.​com/​en_​gb/​software/​university-​edition.​html.
+SAS University Edition is free software that is used throughout the book. Download details can be found at (https://www.sas.com/en_gb/software/university-edition.html).
 
 ## Related Products
 * [Machine Learning for Finance](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-finance?utm_source=github&utm_medium=repository&utm_campaign=9781789136364)
